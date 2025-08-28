@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-print("Hello World!")
-=======
-print("Hello world!")
->>>>>>> intermed
+print("Hello_World!")
