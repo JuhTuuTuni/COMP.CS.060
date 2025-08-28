@@ -1,5 +1,5 @@
-#Uusi tekstitiedosto
-
+<<<<<<< HEAD
 print("Hello World!")
-
-#Ja siinä se sitten olikin
+=======
+print("Hello world!")
+>>>>>>> intermed
